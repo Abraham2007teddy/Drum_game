@@ -68,7 +68,7 @@ function Animation(Currentkey) {
     
     setTimeout(function () { 
         activeButton.classList.remove("pressed"); 
-    }, 500);
+    }, 80);
 
 }
 
